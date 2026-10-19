@@ -40,7 +40,7 @@ The simulator models LoRa time-on-air, the Petäjäjärvi path-loss model with s
 Python 3.9 or later; no GPU or deep-learning framework is needed.
 
 ```bash
-git clone https://github.com/iitrky/VIGIL-LoRa.git
+git clone https://github.com/GArulDalton/VIGIL-LoRa.git
 cd VIGIL-LoRa
 pip install -r requirements.txt
 ```
