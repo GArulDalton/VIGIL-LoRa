@@ -1,0 +1,30 @@
+{
+ "node_decision_us": 15.079084600006354,
+ "N100": {
+  "policy_ms_per_slot": 0.15569055499440765,
+  "per_node_us": 1.5569055499440767,
+  "channel_ms_per_slot": 0.24464709000767473
+ },
+ "N250": {
+  "policy_ms_per_slot": 0.2682529950021717,
+  "per_node_us": 1.073011980008687,
+  "channel_ms_per_slot": 0.3191795950016285
+ },
+ "N500": {
+  "policy_ms_per_slot": 0.4299059599998145,
+  "per_node_us": 0.859811919999629,
+  "channel_ms_per_slot": 0.40446749500176793
+ },
+ "N1000": {
+  "policy_ms_per_slot": 0.7765970499991681,
+  "per_node_us": 0.7765970499991681,
+  "channel_ms_per_slot": 0.5592359799970836
+ },
+ "N2000": {
+  "policy_ms_per_slot": 1.6250738050018754,
+  "per_node_us": 0.8125369025009377,
+  "channel_ms_per_slot": 0.9675861650026718
+ },
+ "params": 6227,
+ "macs": 6080
+}

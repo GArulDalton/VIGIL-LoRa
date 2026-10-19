@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "VIGIL-LoRa: Conformally calibrated multiagent reinforcement learning for spreading factor and power scheduling in batteryless LoRa networks"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+  - family-names: "Bamila Virgin Louis"
+    given-names: "A."
+    orcid: "https://orcid.org/0000-0003-0297-4004"
+    affiliation: "St. Xavier's Catholic College of Engineering, Nagercoil, India"
+license: MIT
+repository-code: "https://github.com/iitrky/VIGIL-LoRa"
